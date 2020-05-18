@@ -1,0 +1,1 @@
+var factors can be refreshed and re-pronounced inside its degree; let factors can be refreshed however not re-announced; const factors can nor be refreshed nor re-proclaimed. They are totally raised to the highest point of their degree however while var factors are introduced with undefined , let and const factors are not instated. 
